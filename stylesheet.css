@@ -1,0 +1,40 @@
+/*Sweeney_stylesheet.css*/
+
+body {
+	background-image: url("");
+	background-color: "red";
+}
+
+
+table {
+	width: 1020px;
+	font-family: arial;
+	font-size:16px;
+	color: #3C2415;
+}
+
+.footer {
+	text-align: center;
+	color: #3C2415;
+	font-family: arial;
+	font-size:10px;
+}
+
+.bulleted_nav {
+	font-size: 12px;
+	list-style-type:none;
+	margin-left: -3.5em;
+	line-height: 250%;
+}
+
+.current_portf {
+	font-size: 14px;
+	color: #CF2C1A;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a:link {color:#3C2415;}      /* unvisited link  brown */
+a:visited {color:#3C2415;}  /* visited link brown */
+a:hover {color:#CF2C1A;}  /* mouseover link red */
+a:active {color:#CF2C1A;}  /* selected link  red */ 
